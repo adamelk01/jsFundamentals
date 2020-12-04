@@ -1,0 +1,107 @@
+body{
+    background-color: gray;
+}
+
+
+
+
+.circle{
+    background-color: green;
+
+    height: 15em;
+    width:  5.5em;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    margin: auto;
+
+
+}
+
+.topBun{
+    background-color: green;
+
+    height: 8em;
+    width: 8em;
+
+    position: absolute;
+    top: -17em;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+
+    
+}
+
+
+.lettuce{
+    background-color: black;
+    
+    height: 1em;
+    width: 1em;
+
+    position: absolute;
+    top: 0;
+    bottom: 19em;
+    left: 4em;
+    right: 0;
+
+    margin: auto;
+}
+
+.ketchup{
+    background-color: black;
+
+    height: 1em;
+    width: 1em;
+
+    position: absolute;
+    top: 0;
+    bottom: 19em;
+    left: 0;
+    right: 4em;
+
+    margin: auto;
+}
+
+.patty{
+    background-color: green;
+
+    height: 3em;
+    width: 2em;
+
+    position: absolute;
+    top: 14em;
+    bottom: 0;
+    left: 7em;
+    right: 0;
+
+    margin: auto;
+
+    border-radius: 10%;
+}
+
+.bottomBun{
+    background-color: green;
+
+    height: 3em;
+    width: 2em;
+
+    position: absolute;
+    top: 14em;
+    bottom: 0;
+    left: 0;
+    right: 7em;
+
+    margin: auto;
+
+    border-radius: 0 0 5% 5%;
+}
+
+
